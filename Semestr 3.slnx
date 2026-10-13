@@ -7,4 +7,10 @@
   <Project Path="Lab-2/Lab-2.vcxproj" Id="0a0ba107-6546-4898-a27c-735218a54da7" />
   <Project Path="Lab-3/Lab-3.vcxproj" Id="d842c165-5df4-4dbb-a901-cbcaca1bf617" />
   <Project Path="Lab-4/Lab-4.vcxproj" Id="a15632eb-59ca-4f97-9ddc-85e9400906e3" />
+  <Project Path="Lab-5 lib/Lab-5 lib.vcxproj" Id="aa6994df-687c-4c2c-993f-c0dbf3509fef">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
+  <Project Path="Lab-5 main/Lab-5 main.vcxproj" Id="d686842d-21cb-4abe-8a31-9b10c29d0eb1">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
 </Solution>

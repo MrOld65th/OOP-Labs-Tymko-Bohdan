@@ -122,35 +122,5 @@ newTriangle::~newTriangle()
 		<< " CA: " << this->sideCA
 		<< " and P: " << P
 		<< " and S: " << S
-		<< endl;
-}
-
-double newTriangle::getAngleA() const
-{
-	return angleA;
-}
-
-double newTriangle::getAngleB() const
-{
-	return angleB;
-}
-
-double newTriangle::getAngleC() const
-{
-	return angleC;
-}
-
-double newTriangle::getSideAB() const
-{
-	return sideAB;
-}
-
-double newTriangle::getSideBC() const
-{
-	return sideBC;
-}
-
-double newTriangle::getSideCA() const
-{
-	return sideCA;
+		<< "\n" << endl;
 }
